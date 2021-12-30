@@ -1,4 +1,4 @@
-# wunderground-influx-func
+# Weather Underground → Influx DB 🌤
 
 Serverless function for replicating Weather Underground data to an influxDB database.
 
