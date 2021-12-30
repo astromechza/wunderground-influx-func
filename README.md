@@ -11,6 +11,12 @@ In my case, the data goes:
 
 ![INFLUX_explore](INFLUX_explore.png)
 
+## FAQ
+
+### Why not straight to Influx from the weather station?
+
+Unfortunately, my station _only_ supports Weather Underground and Weather Cloud, and I haven't been able to get hold of the firmware to potentially modify it to upload directly.
+
 ## Testing locally
 
 Replace values as necessary below:
